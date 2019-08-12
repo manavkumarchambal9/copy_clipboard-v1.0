@@ -9,10 +9,8 @@ copy_clipboard cheet sheet ( shortcut keys ):
     ctrl + v + int( 1 - 9) -----  pastes the copied item at the respective index
   
 Modules required are:
-    module_name               installation
-    
-    pyautogui                 pip install pyautogui
-    pynput                    pip install pynput
+    pyautogui    installation---->    pip install pyautogui
+    pynput       installation---->    pip install pynput
     
 setting up the programm.
     
