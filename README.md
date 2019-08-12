@@ -16,11 +16,13 @@ Modules required are:
     
 setting up the programm.
     
-    press shift and right click on a file or folder and take a screen shot and crop the image for only "copy as path" in the right click       dropdown box and save the cropped image in the folder of copy_clipboard programm. Save al least 4 such images there with the names:
+press shift and right click on a file or folder and take a screen shot and crop the image for only "copy as path" in the right click       dropdown box and save the cropped image in the folder of copy_clipboard programm. Save al least 4 such images there with the names:
+    
     Screenshot (6).png
     Screenshot (7).png
     Screenshot (8).png
     Screenshot (9).png
     
     DELETE the existing .png file in the folder (these are for example).
+    
 And the programm is ready for use.
