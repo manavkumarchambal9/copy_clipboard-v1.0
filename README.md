@@ -1,6 +1,6 @@
 # copy_clipboard-v1.0
 
-This is a support programm for the Windows file or text copying system. This programm helps in increasing your productivity by saving your previous 10 copied items let it be a file/folder/text etc. and let you acess these saved items through simple and eassily accessable shortcut kyes. To provide refference for your last 10 copied items the console shows them with their respective indexing.
+This is a support programm for the Windows file or text copying system. This programm helps in increasing your productivity by saving your previous 10 copied items let it be a file/folder/text etc. and let you acess these saved items through simple and eassily accessible shortcut kyes. To provide refference for your last 10 copied items the console shows them with their respective indexing.
 
 copy_clipboard cheet sheet ( shortcut keys ):
 
